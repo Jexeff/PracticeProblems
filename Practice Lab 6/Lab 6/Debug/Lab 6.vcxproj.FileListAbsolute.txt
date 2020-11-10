@@ -1,0 +1,2 @@
+G:\C++ Programs\Datastructures\Lab 5\Lab 6\Debug\Lab 6.exe
+G:\C++ Programs\Datastructures\Lab 5\Lab 6\Debug\Lab 6.pdb
