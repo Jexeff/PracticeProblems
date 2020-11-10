@@ -1,0 +1,6 @@
+﻿  Rectangle.cpp
+G:\C++ Programs\Datastructures\Lab 3\Lab 3\Rectangle.cpp(19,27): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Lab 3\Lab 3\Rectangle.cpp(38,59): error C2440: 'initializing': cannot convert from 'const std::vector<Point2D,std::allocator<Point2D>>' to 'std::vector<Point2D,std::allocator<Point2D>> &'
+G:\C++ Programs\Datastructures\Lab 3\Lab 3\Rectangle.cpp(38,36): message : Conversion loses qualifiers
+G:\C++ Programs\Datastructures\Lab 3\Lab 3\Rectangle.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Lab 3\Lab 3\Rectangle.cpp(57,21): warning C4018: '<': signed/unsigned mismatch
