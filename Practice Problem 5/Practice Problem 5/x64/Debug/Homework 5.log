@@ -1,0 +1,80 @@
+﻿  main.cpp
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(405,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(401): message : while compiling class template member function 'void Grid<int>::join(Grid<int> &)'
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(106): message : see reference to function template instantiation 'void Grid<int>::join(Grid<int> &)' being compiled
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(57): message : see reference to class template instantiation 'Grid<int>' being compiled
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(454,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(448): message : while compiling class template member function 'void Grid<int>::stack(Grid<int> &)'
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(114): message : see reference to function template instantiation 'void Grid<int>::stack(Grid<int> &)' being compiled
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(591,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(553): message : while compiling class template member function 'void Grid<int>::lift(GridIterator<T>,Grid<T> &)'
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(206): message : see reference to function template instantiation 'void Grid<int>::lift(GridIterator<T>,Grid<T> &)' being compiled
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(605,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(611,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(653,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(623): message : while compiling class template member function 'void Grid<int>::chop(GridIterator<T>,Grid<T> &)'
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(216): message : see reference to function template instantiation 'void Grid<int>::chop(GridIterator<T>,Grid<T> &)' being compiled
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(661,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(667,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(677,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(683,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(689,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(365,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(361): message : while compiling class template member function 'void Grid<int>::set(int,int,T)'
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(80): message : see reference to function template instantiation 'void Grid<int>::set(int,int,T)' being compiled
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(371,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(386,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(382): message : while compiling class template member function 'T Grid<T>::get(int,int)'
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(86): message : see reference to function template instantiation 'T Grid<T>::get(int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(392,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(516,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(513): message : while compiling class template member function 'void Grid<int>::print(void)'
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(58): message : see reference to function template instantiation 'void Grid<int>::print(void)' being compiled
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(522,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(500,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(497): message : while compiling class template member function 'void Grid<char>::reset(T)'
+          with
+          [
+              T=char
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(156): message : see reference to function template instantiation 'void Grid<char>::reset(T)' being compiled
+          with
+          [
+              T=char
+          ]
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\main.cpp(134): message : see reference to class template instantiation 'Grid<char>' being compiled
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(506,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Datastructures\Homework 5\Homework 5\grid.h(399): warning C4715: 'Grid<int>::get': not all control paths return a value
+  Homework 5.vcxproj -> G:\C++ Programs\Datastructures\Homework 5\Homework 5\x64\Debug\Homework 5.exe
