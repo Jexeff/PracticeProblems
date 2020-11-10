@@ -1,0 +1,21 @@
+﻿  Database Homework 1.cpp
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(80,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(81,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(87,24): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(106,23): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(132,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(133,21): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(139,24): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(158,23): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(182,20): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(200,22): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(205,22): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(207,24): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(223,25): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(238,22): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(241,22): warning C4018: '<': signed/unsigned mismatch
+G:\C++ Programs\Database Homework 1\Database Homework 1\Database Homework 1.cpp(194,16): warning C4390: ';': empty controlled statement found; is this the intent?
+  Database Homework 1.vcxproj -> G:\C++ Programs\Database Homework 1\Debug\Database Homework 1.exe
